@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Hooks-Movie-App.git-gh-pages/static/css/main.df3ff551.chunk.css",
-    "main.js": "/Hooks-Movie-App.git-gh-pages/static/js/main.81321afe.chunk.js",
-    "main.js.map": "/Hooks-Movie-App.git-gh-pages/static/js/main.81321afe.chunk.js.map",
-    "runtime-main.js": "/Hooks-Movie-App.git-gh-pages/static/js/runtime-main.9c57c3c4.js",
-    "runtime-main.js.map": "/Hooks-Movie-App.git-gh-pages/static/js/runtime-main.9c57c3c4.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/Hooks-Movie-App.git-gh-pages/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.63495b8b.chunk.js": "/Hooks-Movie-App.git-gh-pages/static/js/2.63495b8b.chunk.js",
-    "static/js/2.63495b8b.chunk.js.map": "/Hooks-Movie-App.git-gh-pages/static/js/2.63495b8b.chunk.js.map",
-    "index.html": "/Hooks-Movie-App.git-gh-pages/index.html",
-    "precache-manifest.745a78ce6409abb9859e8871aeb4cee5.js": "/Hooks-Movie-App.git-gh-pages/precache-manifest.745a78ce6409abb9859e8871aeb4cee5.js",
-    "service-worker.js": "/Hooks-Movie-App.git-gh-pages/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/Hooks-Movie-App.git-gh-pages/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.df3ff551.chunk.css.map": "/Hooks-Movie-App.git-gh-pages/static/css/main.df3ff551.chunk.css.map",
-    "static/js/2.63495b8b.chunk.js.LICENSE.txt": "/Hooks-Movie-App.git-gh-pages/static/js/2.63495b8b.chunk.js.LICENSE.txt"
+    "main.css": "/Hooks-Movie-App-gh-pages/static/css/main.df3ff551.chunk.css",
+    "main.js": "/Hooks-Movie-App-gh-pages/static/js/main.875309a7.chunk.js",
+    "main.js.map": "/Hooks-Movie-App-gh-pages/static/js/main.875309a7.chunk.js.map",
+    "runtime-main.js": "/Hooks-Movie-App-gh-pages/static/js/runtime-main.54077016.js",
+    "runtime-main.js.map": "/Hooks-Movie-App-gh-pages/static/js/runtime-main.54077016.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Hooks-Movie-App-gh-pages/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.63495b8b.chunk.js": "/Hooks-Movie-App-gh-pages/static/js/2.63495b8b.chunk.js",
+    "static/js/2.63495b8b.chunk.js.map": "/Hooks-Movie-App-gh-pages/static/js/2.63495b8b.chunk.js.map",
+    "index.html": "/Hooks-Movie-App-gh-pages/index.html",
+    "precache-manifest.cfb28602a5d810810a459e5d7df72310.js": "/Hooks-Movie-App-gh-pages/precache-manifest.cfb28602a5d810810a459e5d7df72310.js",
+    "service-worker.js": "/Hooks-Movie-App-gh-pages/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Hooks-Movie-App-gh-pages/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.df3ff551.chunk.css.map": "/Hooks-Movie-App-gh-pages/static/css/main.df3ff551.chunk.css.map",
+    "static/js/2.63495b8b.chunk.js.LICENSE.txt": "/Hooks-Movie-App-gh-pages/static/js/2.63495b8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c57c3c4.js",
+    "static/js/runtime-main.54077016.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.63495b8b.chunk.js",
     "static/css/main.df3ff551.chunk.css",
-    "static/js/main.81321afe.chunk.js"
+    "static/js/main.875309a7.chunk.js"
   ]
 }
